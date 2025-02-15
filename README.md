@@ -1,1 +1,1 @@
-"# Methods-of-computer-network-management" 
+# Methods-of-computer-network-management
